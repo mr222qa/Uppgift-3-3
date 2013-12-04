@@ -18,3 +18,11 @@ body
     margin-left:auto;
     margin-right:auto;
 }
+#topbar
+{
+    float:right;
+    font-style:italic;
+    color:white;
+    font-family:arial;
+    padding-right:10px;
+}
