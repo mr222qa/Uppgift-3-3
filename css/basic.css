@@ -26,3 +26,50 @@ body
     font-family:arial;
     padding-right:10px;
 }
+#menu
+{
+    background-image:url("pics/coffey.jpg");
+    height:200px;
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:20px;
+    background-repeat:no-repeat;
+    position:Absolute;
+    z-index:1000;
+}
+#menu ul
+{
+    margin-top:192px;
+    list-style-type:none;
+    margin-left:-20px;
+    text-transform:capitalize;
+}
+#menu ul li a
+{
+    float:left;
+    background-color:#797066;
+    text-align:justify;
+    padding-top:6px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:6px;
+    border-left:1px solid #51473d;
+    border-right:1px solid #51473d;
+    border-top:1px solid #51473d;
+}
+#menu ul li a:hover
+{
+    background-color:#9c9084;
+    color:white;
+}
+#menu .active a
+{
+    background-color:#eae7d2;
+    color:#797066;
+}
+#menu a
+{
+    color:white;
+    text-decoration:none;
+}
