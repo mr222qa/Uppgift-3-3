@@ -89,15 +89,15 @@ body
 #maincontent h1
 {
     color:#4e5256;
-    font-family:sans sarif;
+    font-family:"Times New Roman";
     font-weight:normal;
     font-size:20px;
 }
 #maincontent p
 {
-    font-size:12px;
+    font-size:11px;
     color:#707377;
-    font-family:arial;
+    font-family:Verdana;
 }
 #maincontent img
 {
@@ -115,22 +115,22 @@ body
 #subcontent h1
 {
     color:#4e5256;
-    font-family:sans sarif;
+    font-family:"Times New Roman";
     font-weight:normal;
     font-size:16px;
 }
 #subcontent h2
 {
-    font-family:sans sarif;
+    font-family:"Times New Roman";
     color:#4e5256;
     font-weight:normal;
     font-size:14px;
 }
 #subcontent p
 {
-    font-size:12px;
+    font-size:11px;
     color:#707377;
-    font-family:arial;
+    font-family:Verdana;
 }
 #subcontent ul
 {
