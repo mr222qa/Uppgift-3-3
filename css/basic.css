@@ -146,3 +146,11 @@ body
     font-size:11px;
     color:#4e5256;
 }
+#bottomcontent
+{
+    color:#4e5256;
+    clear:both;
+    font-size:10px;
+    padding-left:13px;
+    font-style:italic;
+}
