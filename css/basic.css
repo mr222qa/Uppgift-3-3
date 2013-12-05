@@ -104,3 +104,45 @@ body
     float:left;
     padding-right:10px;
 }
+#subcontent
+{
+    width:210px;
+    height:210px;
+    float:right;
+    padding-right:10px;
+    margin-top:10px;
+}
+#subcontent h1
+{
+    color:#4e5256;
+    font-family:sans sarif;
+    font-weight:normal;
+    font-size:16px;
+}
+#subcontent h2
+{
+    font-family:sans sarif;
+    color:#4e5256;
+    font-weight:normal;
+    font-size:14px;
+}
+#subcontent p
+{
+    font-size:12px;
+    color:#707377;
+    font-family:arial;
+}
+#subcontent ul
+{
+    margin-top:-10px;
+    margin-left:-40px;
+}
+#subcontent li
+{
+    list-style:none;
+}
+#subcontent a
+{
+    font-size:11px;
+    color:#4e5256;
+}
