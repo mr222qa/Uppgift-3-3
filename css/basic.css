@@ -76,3 +76,31 @@ body
     height:240px;
     margin-top:33px;
 }
+#maincontent
+{
+    float:left;
+    height:210px;
+    width:350px;
+    border-right:1px dashed #9da2aa;
+    margin-top:10px;
+    margin-left:10px;
+    padding-right:10px;
+}
+#maincontent h1
+{
+    color:#4e5256;
+    font-family:sans sarif;
+    font-weight:normal;
+    font-size:20px;
+}
+#maincontent p
+{
+    font-size:12px;
+    color:#707377;
+    font-family:arial;
+}
+#maincontent img
+{
+    float:left;
+    padding-right:10px;
+}
