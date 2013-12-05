@@ -12,6 +12,10 @@ body
     line-height:1;
     top:0;
 }
+a
+{
+    display:none;
+}
 #container
 {
     background-color:#51473d;
@@ -40,9 +44,14 @@ body
     margin-right:auto;
     background-repeat:no-repeat;
 }
+#menu ul a
+{
+    display:block;
+}
 #menu ul
 {
-    margin:199px 0 0 -20px;
+    padding-top:211px;
+    margin-left:-20px;
     list-style-type:none;
     text-transform:capitalize;
 }
